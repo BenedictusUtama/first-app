@@ -24,8 +24,8 @@ function Products(){
             .then(response => {
                 setProduct({
                     loading: false,
-                     data: response.data,
-                     error: false
+                    data: response.data,
+                    error: false
                 })
             })
             .catch(() => {
