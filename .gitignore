@@ -9,8 +9,8 @@
 /coverage
 
 # production
-#//including build folder for netlify
-#/build
+#//include build folder for netlify
+/build
 
 # misc
 .DS_Store
